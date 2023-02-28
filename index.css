@@ -1,0 +1,59 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color:darkgray;
+    font-family: 'Unbounded', cursive;
+    color:rgb(25, 36, 39);
+    text-align: center;
+}
+
+h2{
+    color: cornsilk;
+    font-size: large;
+
+
+}
+
+button{
+    background:rgb(25, 36, 39);
+    font-family: 'Unbounded', cursive;
+    color: cornsilk;
+    width:200px;
+    height: 40px;
+    padding-top:5px;
+    padding-bottom:5px;
+    font-weight:bold;
+    border:none;
+    border-radius:5px;
+    margin-bottom:2px;
+    margin-top:2px;
+
+}
+
+p{
+   position: relative;
+   background: rgba(43, 60, 65, 0.74);
+   width: 210px;
+   height: 40px;
+   padding-top: 20px;
+   padding-bottom: 5px;
+   margin-bottom: 2px;
+   margin-top: 2px;
+   margin-right: 20px;
+   border-radius: 5px;
+   color: cornsilk;
+   
+
+
+
+}
+
+div{
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+    margin-right: 10px;
+    padding: 20px;
+    
+}
